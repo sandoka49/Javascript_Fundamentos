@@ -1,5 +1,5 @@
 
-
+/* EXEMPLO DE MANIPULAÇÃO DE ELEMENTOS
 function clicou(){
     document.getElementById("agradecimento").innerHTML= "<b>Obrigado por clicar</b>";
    // console.log(document.getElementById("agradecimento"));
@@ -26,6 +26,7 @@ function load(){
 function change(elemento){
     console.log(elemento.value);
 };
+*/
 
 /* FUNÇÃO SOMA//
 function soma(n1,n2){
@@ -51,7 +52,7 @@ var idade= prompt("Qual sua idade?");
 //console.log(validaIdade(idade));
 console.log(validar)
 */
-
+// FUNÇÃO REPLACE
 /* function setReplace(frase,nome,nome_nome){
     return frase.replace(nome,nome_nome);
 }
